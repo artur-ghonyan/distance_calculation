@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DistanceCalculation</string>
+    <string name="menu">Clear map</string>
+</resources>
